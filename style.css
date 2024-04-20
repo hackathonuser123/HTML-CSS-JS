@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+img {
+  width: 500px;
+  height:500px;
+}
+body {
+  text-align: center;
+  font-family:Arial;
+  background-color:#4aabe8;
+  color:white;
+}
+table {
+  width:100%;
+  border-collapse:collapse;
+}
+th,td {
+  background-color:#3d3df5;
+  border:2px solid blue;
+}
+
+.other {
+  background-color:#84dae6;
+  font-family:Arial;
+}
+.ot {
+  width:300;
+  height:300;
+}
+.oth2 {
+background-color:#d9f4f7;
+font-family:Arial;
+color:black;
+}
